@@ -4,7 +4,12 @@
       flex-wrap: wrap;
       justify-content: center;
       align-items: center;
-    }
+}
+#photo-heading{
+	display:flex;
+	justify-content: center;
+}
+
  
     .animal-photo {
       margin: 10px;
